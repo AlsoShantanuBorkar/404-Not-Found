@@ -66,7 +66,7 @@ body div:not(main div){
 .attribution{
     left: 25%;
     right: 25%;
-    position: absolute;
+    position: relative;
     bottom: 0;
     font-size: 1rem;
     font-family: 'Space Mono', monospace;
