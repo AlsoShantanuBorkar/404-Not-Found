@@ -36,7 +36,11 @@
 
 ## Overview
 
+<<<<<<< HEAD
 ![screenshot](./images/screenshot.jpg)
+=======
+![screenshot]("./images/screenshot.png)
+>>>>>>> 4b99dedec8ec34fa1967ad97133581ba077f8b47
 
 
 ### Built With
