@@ -12,8 +12,8 @@ body{
     display: flex;
     flex-direction: column;
     flex-grow: 1;
-    gap: 1rem;
-    justify-content: center;
+    gap: 4rem;
+    justify-content: space-between;
 }
 
 header{
@@ -64,10 +64,7 @@ body div:not(main div){
 }
 
 .attribution{
-    left: 25%;
-    right: 25%;
-    position: relative;
-    bottom: 0;
+    
     font-size: 1rem;
     font-family: 'Space Mono', monospace;
 }
